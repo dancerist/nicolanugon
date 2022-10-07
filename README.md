@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I have no idea what to do with my life**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/nicolaskid/">linkedin.com/in/nicolaskid/</a></h3>
+<h3 align="left">Connect with me: <a target="_blank" href="https://www.linkedin.com/in/nicolaskid/">linkedin.com/in/nicolaskid/</a></h3>
 <p align="left">
 </p>
 
