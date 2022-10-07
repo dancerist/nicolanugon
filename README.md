@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **SCSS, HTML, JavaScript**
 
-- 📫 How to reach me **hello@nicolaskid.com**
+- 📫 Get intouch with me at **hello@nicolaskid.com**
 
 - ⚡ Fun fact **I have no idea what to do with my life**
 
