@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my website](nicolaskid.com)
 
-- 🌱 I’m currently learning **java, python, php, javascript, and more...**
+- 🌱 I’m currently learning **JavaScript and Java**
 
 - 👨‍💻 All of my projects are available at [nicolaskid.com/portfolio](nicolaskid.com/portfolio)
 
